@@ -1,9 +1,9 @@
 ### Hello world, I'm a senior student at Georgia State University. My major is Computer Information System. I’m passionate about creating truly beautiful, efficient digital products to make people’s experience with technology memorable. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I am working on my Data Structures and Algorithms skills :smile:
 
 
-- 🔭 Passion is what will keep you going when things get tough, and push you to improve every day
-- 💪 2022 Goals: Become a Software Engineer
-- ⭐: Listen to music , video games and swimming
+- 🔭 Passion is what will keep you going when things get tough, and push you to improve every day 😀
+- 💪 2022 Goals: Become a Software Engineer :v:
+- ⭐: Listen to music 🎼, video games🎮 and swimming 🏊‍♂️
 
 ### :zap: GitHub Stats
 
