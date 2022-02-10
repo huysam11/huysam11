@@ -1,4 +1,4 @@
-### Hi, I'm Huy Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   
+### Hello world, I'm a senior student at Georgia State University. My major is Computer Information System. I’m passionate about creating truly beautiful, efficient digital products to make people’s experience with technology memorable. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I am working on my Data Structures and Algorithms skills :smile:
 
 
 - 🔭 Passion is what will keep you going when things get tough, and push you to improve every day
@@ -10,8 +10,8 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=huysam11&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huysam11&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="https://github.com/huysam11/huysam11/blob/main/coding-freak.gif?raw=true"/></td>
 </tr>
@@ -20,23 +20,18 @@
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
-
----
-
-### 📺 YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [REST API - FLASK PYTHON #8: DEMO FRONT-END!](https://www.youtube.com/watch?v=RxswWQmzcLw)
-- [REST API - FLASK PYTHON #7: CÁCH VIẾT UNIT TESTCASE CHO API!](https://www.youtube.com/watch?v=RZ2ucuWoVmA)
-- [HƯỚNG DẪN CÀI NODE JS LẬP TRÌNH JAVA SCRIPT TRÊN VS  CODE!](https://www.youtube.com/watch?v=Gxul2XV9KL8)
-- [REST API - FLASK PYTHON #6: BỔ SUNG THÊM 2 API ĐẶC BIỆT!](https://www.youtube.com/watch?v=SAVYW8gQXLo)
-- [REST API - FLASK PYTHON #5: VIẾT API  GET, UPDATE, DELETE  BOOK](https://www.youtube.com/watch?v=M9tNAZAiWnI)
-<!-- YOUTUBE:END -->
-
----
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" /> 
+<img align="left" alt="c#" width="26px" src="https://iconape.com/wp-content/files/km/370669/svg/c-sharp-logo-icon-png-svg.png" />
+<img align="left" alt="Javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
+<img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
+<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />
+<img align="left" alt="Javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" /> 
+ 
+  ---
 
 ### 📫 Contact me via:
-- EMAIL: lathanhmta@gmail.com
-- YOTUBE: THÀNH IT
+- EMAIL: huysam116@gmail.com
 
-[website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
+
+
