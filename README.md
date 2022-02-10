@@ -20,11 +20,11 @@
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
-<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" /> 
-<img align="left" alt="c#" width="26px" src="https://iconape.com/wp-content/files/km/370669/svg/c-sharp-logo-icon-png-svg.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" /> 
+<img align="left" alt="c#" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="Javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
+<img align="left" alt="Jupyter Lab" width="26px" src="https://ih1.redbubble.net/image.750052662.3804/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />
 <img align="left" alt="Javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" /> 
  
