@@ -32,5 +32,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/huy-sam-363b241b5" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huy-sam-363b241b5" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="linkedin" height="30" width="40" /></a>
 </p>
