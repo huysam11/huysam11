@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion is what will keep you going when things get tough, and push you to improve every day 😀
-- 💪 2022 Goals: Become a Software Engineer :v:
+- 💪 2022 Goals: Become a Software Engineer or a Data Analyst :v:
 - ⭐: Listen to music 🎼, video games🎮 and swimming 🏊‍♂️
 
 ### :zap: GitHub Stats
