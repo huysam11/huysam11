@@ -1,4 +1,4 @@
-### Hello world, I'm a senior college student. I’m passionate about creating truly beautiful, efficient digital products to make people’s experience with technology memorable. I love to explore new technologies and leverage them to solve real-life problems.  :smile:
+### Hello world, I'm a QA engineer. I’m passionate about creating truly beautiful, efficient digital products to make people’s experience with technology memorable. I love to explore new technologies and leverage them to solve real-life problems.  :smile:
 
 
 - 🔭 Passion is what will keep you going when things get tough, and push you to improve every day 😀
