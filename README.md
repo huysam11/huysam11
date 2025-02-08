@@ -16,7 +16,6 @@
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />
  
-  ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
